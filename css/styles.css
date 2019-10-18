@@ -1,0 +1,13 @@
+.style__divTable{
+    width: 200px;
+    height: 100px;
+}
+
+.style__itemsList{
+    list-style:none;
+}
+
+.style__container{
+    width: 1000px;
+    height: 500px;
+}
